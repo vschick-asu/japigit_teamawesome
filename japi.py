@@ -36,6 +36,8 @@ def main():
         print("The current price of " + user_input + " is: " + get_stock_data(user_input))
         user_input = input("Enter stock symbol or quit: ")
 
+    print("Stock Quotes retrieved successfully!")
+
 
 if __name__ == "__main__":
     main()
