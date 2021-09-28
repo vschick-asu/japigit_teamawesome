@@ -1,0 +1,14 @@
+Copy of my shell output from japi.py
+
+➜  project5 ./japi.py
+Enter stock symbol or quit: AAPL
+The current price of AAPL is: 145.3700
+Enter stock symbol or quit: GOOGL
+The current price of GOOGL is: 2821.4400
+Enter stock symbol or quit: DELL
+The current price of DELL is: 104.8700
+Enter stock symbol or quit: MSFT
+The current price of MSFT is: 294.1700
+Enter stock symbol or quit: AMZN
+The current price of AMZN is: 3405.8000
+Enter stock symbol or quit: quit
